@@ -2,8 +2,7 @@
 
 A clean, responsive login page with form validation, built with HTML, CSS, and JavaScript.
 
-![Login Page Preview](https://github.com/priyanshusingh017/Login-page/blob/main/preview.png) 
-*(Replace with actual preview image URL after uploading)*
+Login page live: [Demo](https://priyanshusingh017.github.io/Login-page/)
 
 <video src="https://github.com/priyanshusingh017/Login-page/raw/main/demo.mp4" width="640" height="360" controls>
   Your browser does not support the video tag.
